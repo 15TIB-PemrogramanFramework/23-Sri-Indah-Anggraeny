@@ -1,2 +1,6 @@
-# 23-Sri-Indah-Anggraeny
-Sistem Jual Beli Laptop Second Libercom adalah sebuah sistem informasi mengenai produk-produk yang disediakan oleh toko Libercom. Sistem ini dibuat untuk memudahkan pengguna dalam melakukan transaksi. Dimana dengan adanya sistem ini pemilik dapat lebih mudah mempromosikan layanan yang ada di toko Libercom dan memudahkan pemilik dalam pengelolaan data. Member juga dapat dengan mudah melakukan pemesanan produk. Toko Libercom sendiri menyediakan layanan jual beli laptop bekas(second) dan jasa service yang terletak di Pekanbaru. 
+# crud-generator
+Full Project of Codeigniter CRUD Generater based on HarviaCode CRUD Generator
+
+Simply access http://localhost/socianovation
+
+Follow the guide and you will be good to start.
